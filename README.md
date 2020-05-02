@@ -13,3 +13,6 @@ The tomcat ErrorReportValve can be configured by creating a custom valve (see `T
 It would be easier to have the error page configured by the `application.properties`.
 
 Activate the `customerrorvalve` profile to run with a custom error valve.
+
+
+See issue: https://github.com/spring-projects/spring-boot/issues/21257
